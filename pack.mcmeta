@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 8,
-		"description": ""
+		"description": "Optimises acquisition of items e.g. crafting recipies for enchatment books."
 	}
 }
