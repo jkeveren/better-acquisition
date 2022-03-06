@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"unlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "enchantment-books:craft_flame"
+			}
+		}
+	},
+	"rewards": {
+		"function": "enchantment-books:give_craft_flame"
+	}
+}

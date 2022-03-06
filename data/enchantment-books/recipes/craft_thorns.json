@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"item": "minecraft:book"},
+		{"item": "minecraft:diamond"},
+		{"item": "minecraft:diamond"},
+		{"item": "minecraft:diamond"},
+		{"item": "minecraft:lapis_lazuli"},
+		{"item": "minecraft:lapis_lazuli"},
+		{"item": "minecraft:lapis_lazuli"},
+		{"item": "minecraft:lapis_lazuli"},
+		{"item": "minecraft:cactus"}
+	],
+	"result": {
+		"item": "minecraft:knowledge_book",
+		"count": 1
+	}
+}

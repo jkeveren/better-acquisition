@@ -4,14 +4,14 @@ Makes acquiring some items less frustrating.
 ## Recipes
 Recipes are shapeless unless stated otherwise.
 
-#### Shulker Box
+### Shulker Box
 ![](readme-images/shulker_box.png)
 
 Ingredients:
 - Chest
 - 8 * Iron Ingot
 
-#### Enchanted Book
+### Enchanted Book
 ![](readme-images/enchantment_book.png)
 
 Replace empty slot with item from table below
