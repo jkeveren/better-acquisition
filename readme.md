@@ -1,5 +1,5 @@
 # Better Acquisition
-Makes acquiring some items less frustrating.
+Makes acquiring some items less cumbersome.
 
 ## Recipes
 Recipes are shapeless unless stated otherwise.
