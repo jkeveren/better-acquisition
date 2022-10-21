@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"item": "minecraft:chest"},
+		{"item": "minecraft:iron_ingot"},
+		{"item": "minecraft:iron_ingot"},
+		{"item": "minecraft:iron_ingot"},
+		{"item": "minecraft:iron_ingot"},
+		{"item": "minecraft:iron_ingot"},
+		{"item": "minecraft:iron_ingot"},
+		{"item": "minecraft:iron_ingot"},
+		{"item": "minecraft:iron_ingot"}
+	],
+	"result": {
+		"item": "minecraft:shulker_box"
+	}
+}
