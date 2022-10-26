@@ -1,26 +1,19 @@
 # Better Acquisition
-Makes acquiring some items less cumbersome.
+Reduces grindy gameplay for a more build focused world.
 
 ## Recipes
-Recipes are shapeless unless stated otherwise.
 
 ### Shulker Box
-![](readme-images/shulker_box.png)
-
-Ingredients:
+Ingredients ([shapeless]):
 - Chest
 - 8 * Iron Ingot
 
 ### Enchanted Book
-![](readme-images/enchantment_book.png)
-
-Replace empty slot with item from table below
-
-Ingredients:
+Ingredients ([shapeless]):
 - Book
 - 3 * Diamond
 - 4 * Lapis Lazuli
-- Other item that depends on target enchantment as documented below.
+- Other item that depends on enchantment as documented below.
 
 | Enchantment | Ingredient
 |-|-
@@ -40,3 +33,5 @@ Ingredients:
 | Silk Touch | Cobweb
 | Thorns | Cactus
 | Unbreaking | Obsidian
+
+[shapeless]: https://minecraft.fandom.com/wiki/Crafting#Crafting_system "Ingredients do not need to be in any particular pattern"
