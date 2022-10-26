@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"item": "minecraft:light_blue_stained_glass"}
+	],
+	"result": {
+		"item": "minecraft:glass"
+	}
+}

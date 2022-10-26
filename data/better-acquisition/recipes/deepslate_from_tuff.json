@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"item": "minecraft:tuff"}
+	],
+	"result": {
+		"item": "minecraft:deepslate"
+	}
+}

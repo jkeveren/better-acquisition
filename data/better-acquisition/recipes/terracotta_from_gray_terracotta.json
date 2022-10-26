@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"item": "minecraft:gray_terracotta"}
+	],
+	"result": {
+		"item": "minecraft:terracotta"
+	}
+}
